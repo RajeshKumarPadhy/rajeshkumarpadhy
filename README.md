@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshkumarpadhy)](https://github.com/anuraghazra/github-readme-stats)
+I'm a software engineer experienced in building robust and beautiful code that sometimes feed my curiosity and some other times solve real world problems. I work across multiple languages like: Javascript, Dart, PHP, Python, etc. I'm also learning Go & Rust. 
+
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshkumarpadhy)](https://github.com/anuraghazra/github-readme-stats)
